@@ -1,45 +1,45 @@
 <h1 align="center" style="font-weight:700; font-size:36px;">
-  DATA ANALYSIS PORTFOLIO
+  PORTFOLIO DATA ANALYSIS
 </h1>
 
 <p align="center" style="font-size:18px; color:#555;">
-  Transforming raw data into clear insights, visual stories, and actionable decisions.
+  Transformer des données brutes en insights clairs, visualisations et décisions exploitables.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Domain-Data%20Analysis-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Excel%20%7C%20Power%20BI-FF1493?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active%20&%20Updating-32CD32?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Domaine-Analyse%20de%20données-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Outils-Python%20%7C%20SQL%20%7C%20Excel%20%7C%20Power%20BI-FF1493?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Statut-Actif%20&%20Mise%20à%20jour-32CD32?style=for-the-badge">
 </p>
 
 ---
 
-## About This Portfolio
+## À propos de ce portfolio
 
-This repository showcases my work in data analysis, featuring projects where I:
+Ce dépôt présente mes travaux en **analyse de données**, comprenant des projets où je :
 
-- Clean and preprocess real-world datasets  
-- Perform deep exploratory data analysis (EDA)  
-- Visualize trends and patterns using modern tools  
-- Deliver insights that support decision-making  
+- Nettoie et prépare des datasets réels  
+- Effectue une **analyse exploratoire des données (EDA)**  
+- Visualise les tendances et les patterns avec des outils modernes  
+- Fournis des insights pour soutenir la prise de décision  
 
-Each project includes: Dataset + Analysis + Visual Results + Final Conclusions.
-
----
-
-## Projects
-
-Click a project to explore deeper:
-
-| Project | Summary | Tools |
-|--------|---------|------|
-| [Project 1](./project-1) | Short description of the dataset and insight goals | Python, Pandas, Seaborn |
-
-> More projects are currently being added.
+Chaque projet contient : Dataset + Analyse + Visualisations + Conclusions finales.
 
 ---
 
-## Tech Stack & Skills
+## Projets
+
+Cliquez sur un projet pour en savoir plus :
+
+| Projet | Résumé | Outils |
+|--------|--------|--------|
+| [Projet 1](./project-1) | Brève description du dataset et des objectifs d'analyse | Python, Pandas, Seaborn |
+
+> D’autres projets seront ajoutés prochainement.
+
+---
+
+## Compétences et Outils
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -52,22 +52,22 @@ Click a project to explore deeper:
 
 ---
 
-## Areas of Focus
+## Domaines de compétence
 
-- Exploratory Data Analysis (EDA)
-- Data Cleaning and Feature Preparation
-- Business Insight Extraction
-- Data Visualization and Reporting
+- Analyse exploratoire des données (EDA)  
+- Nettoyage et préparation des données  
+- Extraction d’insights business  
+- Visualisation et reporting
 
 ---
 
 ## Contact
 
-I’m open to collaboration, discussion, and feedback 📬  
+Ouvert à la collaboration et aux échanges  
 
-**Email:** elasriioumaima@gmail.com  
-**LinkedIn:** https://linkedin.com/in/oumaimaelasri/?skipRedirect=true  
+**Email :** elasriioumaima@gmail.com  
+**LinkedIn :** [linkedin.com/in/oumaimaelasri](https://linkedin.com/in/oumaimaelasri/?skipRedirect=true)  
 
 <p align="center" style="font-size:14px; color:#777;">
-  If you like what you see, consider starring ⭐ this repository.
+  Si ce portfolio vous plaît, n’hésitez pas à mettre une étoile ⭐ !
 </p>
