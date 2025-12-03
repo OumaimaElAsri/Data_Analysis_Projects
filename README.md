@@ -32,8 +32,6 @@ Each project includes:
 | 📌 Project | 📝 Description | 🛠 Tools |
 |----------|----------------|---------|
 | [Project 1](./project-1) | Short description of your analysis | Python, Pandas, Seaborn |
-| [Project 2](./project-2) | Insights from dataset X | Excel / Power BI |
-| [Project 3](./project-3) | Any domain you explored | SQL + Python |
 
 More coming soon... ⏳🚀
 
@@ -63,7 +61,7 @@ More coming soon... ⏳🚀
 ## 📫 Contact
 If you’d like to collaborate or chat about data:
 
-📧 Email: *add your email here*  
-🔗 LinkedIn: *add your LinkedIn link*  
+📧 Email: elasriioumaima@gmail.com
+🔗 LinkedIn: linkedin.com/in/oumaimaelasri/?skipRedirect=true 
 
 <p align="center">Thanks for visiting! ⭐ Feel free to star this repo!</p>
